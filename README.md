@@ -1,3 +1,9 @@
+# Retired - 16 November 2026
+
+This project is obsolete and is no longer maintained or released. The legacy vmblu tooling, tutorials and Connect hosted relay are retired. Current VizualModel work is described at https://vizualmodel.ai. This repository is archived for historical reference; do not use its installation or publishing instructions for current development.
+
+---
+
 ![vmblu](vmblu-header.png)
 
 # vmblu tutorials
